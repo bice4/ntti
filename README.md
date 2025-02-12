@@ -42,4 +42,3 @@ _Optional:_
 - ``winget install -e --id Microsoft.OpenSSH.Beta`` - OpenSSH
 - ``choco install ngrok -y`` - Ngrok
 - ``choco install httpie-desktop`` - Postman analog
-- ``choco install mpc-hc -y`` - Media player
