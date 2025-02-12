@@ -21,6 +21,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 - ``choco install git -y`` - GIT
 - ``choco install winscp`` - WinScp sftp client
 - ``winget install -e --id Microsoft.Teams`` - MS Teams
+- ``winget install -e --id Postman.Postman`` - Postman
 
 _Cloud:_  
 
