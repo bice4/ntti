@@ -22,6 +22,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 - ``choco install winscp`` - WinScp sftp client
 - ``winget install -e --id Microsoft.Teams`` - MS Teams
 - ``winget install -e --id Postman.Postman`` - Postman
+- ``choco install mremoteng -y`` - mRemoteNG
 
 _Cloud:_  
 
@@ -41,3 +42,4 @@ _Optional:_
 - ``winget install -e --id Microsoft.OpenSSH.Beta`` - OpenSSH
 - ``choco install ngrok -y`` - Ngrok
 - ``choco install httpie-desktop`` - Postman analog
+- ``choco install mpc-hc -y`` - Media player
