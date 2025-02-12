@@ -1,4 +1,3 @@
-
 # HOW TO MAKE YOUR LIFE EASIER
 
 ## Install Chocolatey :floppy_disk:
@@ -39,3 +38,5 @@ _Optional:_
 - ``choco install zoom -y`` - Zoom client  
 - ``choco install sourcetree -y`` - SourceTree :poop:
 - ``winget install -e --id Microsoft.OpenSSH.Beta`` - OpenSSH
+- ``choco install ngrok -y`` - Ngrok
+- ``choco install httpie-desktop`` - Postman analog
