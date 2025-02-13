@@ -27,7 +27,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 _Cloud:_  
 
 - ``choco install azure-cli -y`` - Azure CLI  
-- ``choco install terraform --pre -y `` - Terraform  
+- ``choco install terraform --version 1.9.8 -y `` - Terraform  
 - ``choco install kubernetes-helm -y`` - Helm  
 - ``choco install python312 -y`` - Python  
 - ``winget install --id Microsoft.PowerShell --source winget`` - PowerShell 7+
